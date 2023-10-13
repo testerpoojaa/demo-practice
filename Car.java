@@ -1,5 +1,5 @@
 package oopss;
-
+new
 public class Car {
 	String color;
 	int price;
