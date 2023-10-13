@@ -1,4 +1,4 @@
-package basicss;
+package basics;
 
 public class assign {
 
