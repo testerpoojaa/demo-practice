@@ -1,4 +1,4 @@
-package oops;
+package ooops;
 
 public class demooo {
 
