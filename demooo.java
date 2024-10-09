@@ -1,6 +1,6 @@
 package ooops;
 
-public class demooo {
+public class demooo vishnu {
 
 	public static void main(String[] args) {
 		System.out.println("hello  welcome");
